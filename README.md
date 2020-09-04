@@ -10,8 +10,8 @@ _CS 648 Introduction to Modern Web Frameworks_
  _1. Visual Studio Code_
  
 ### Objective 
-_1. User [GitHub Desktop](https://desktop.github.com) and [Visual Studio](https://visualstudio.microsoft.com)_
+_* User [GitHub Desktop](https://desktop.github.com) and [Visual Studio](https://visualstudio.microsoft.com)_
 
-_2. Create web page using HTML5_
+_* Create web page using HTML5_
 
-_3. Create AWESOME MARKDOWN_
+_* Create AWESOME MARKDOWN_
