@@ -1,17 +1,17 @@
 # Assignment 1
 _CS 648 Introduction to Modern Web Frameworks_
 
-### Technologies Used
+### Technologies
  _1. HTML5_
  
  _2. Github Desktop_
  
-### Editor Used
+### Editor
  _1. Visual Studio Code_
  
 ### Objective 
-_*User [GitHub Desktop](https://desktop.github.com) and [Visual Studio](https://visualstudio.microsoft.com)_
+_(*)User [GitHub Desktop](https://desktop.github.com) and [Visual Studio](https://visualstudio.microsoft.com)_
 
-_*Create web page using HTML5_
+_(*)Create web page using HTML5_
 
-_*Create AWESOME MARKDOWN_
+_(*)Create awesome markdown_
