@@ -14,4 +14,4 @@ _1. User [GitHub Desktop](https://desktop.github.com) and [Visual Studio](https:
 
 _2. Create web page using HTML5_
 
-_3. Create awesome markdown_
+_3. Create README with awesome markdown_
