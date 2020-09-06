@@ -9,9 +9,9 @@ _CS 648 Introduction to Modern Web Frameworks_
 ### Editor
  _1. Visual Studio Code_
  
-### Objective 
+### Objectives 
 _1. User [GitHub Desktop](https://desktop.github.com) and [Visual Studio](https://visualstudio.microsoft.com)_
 
 _2. Create web page using HTML5_
 
-_3. Create README with awesome markdown_
+_3. Create README with **_Awesome Markdown_**_
